@@ -1,7 +1,9 @@
 ## Real Time Stock data
 
-**Please do not use this book for trading. I just doing the research for learning purpose.**
+**Please do not use this book for trading. I just doing the research for learning purpose.** <br>
+
 **Updating.. ** <br>
+
 Source: [View IBM Course](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 <div id="header" align="center">
