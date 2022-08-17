@@ -8,7 +8,7 @@
 
 **Updating.. ** <br>
 
-Source: [View IBM Course](https://www.coursera.org/professional-certificates/ibm-data-science)
+Source: [IBM Course](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ### Share Price: Apple Stock
 <img width="946" alt="Screen Shot 2022-08-16 at 1 29 51 PM" src="https://user-images.githubusercontent.com/64395120/184952648-13badc9a-559c-4974-af27-8fc498db1f76.png">
