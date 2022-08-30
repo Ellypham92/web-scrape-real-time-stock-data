@@ -11,7 +11,8 @@
 Source: [IBM Course](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ### Share Price: Apple Stock
-<img width="946" alt="Screen Shot 2022-08-16 at 1 29 51 PM" src="https://user-images.githubusercontent.com/64395120/184952648-13badc9a-559c-4974-af27-8fc498db1f76.png">
+<img width="946" alt="Screen Shot 2022-08-16 at 1 29 51 PM" src="https://user-images.githubusercontent.com/64395120/187547481-45f00d09-1fd1-4eb9-8bc0-8109f886c42b.png">
+
 
 ### Revenue: Apple Stock
-<img width="949" alt="Screen Shot 2022-08-16 at 1 31 01 PM" src="https://user-images.githubusercontent.com/64395120/184952837-fd5e0e98-b699-4c7f-8ead-b43826999af3.png">
+<img width="949" alt="Screen Shot 2022-08-16 at 1 31 01 PM" src="https://user-images.githubusercontent.com/64395120/187547545-0b4cb6d8-c641-43f2-851b-ebf27e52b247.png">
