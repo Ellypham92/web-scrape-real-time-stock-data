@@ -1,7 +1,7 @@
 ## Real Time Stock Data Scraping
 
 <div id="header" align="center">
-<img width="200" alt="Screen Shot 2022-08-16 at 11 11 44 AM" src="https://user-images.githubusercontent.com/64395120/187549771-2f823f6c-e09c-4b42-aed1-9804eff6e1ff.png">
+<img width="800" alt="Screen Shot 2022-08-16 at 11 11 44 AM" src="https://user-images.githubusercontent.com/64395120/187549771-2f823f6c-e09c-4b42-aed1-9804eff6e1ff.png">
   
 </div>
 
