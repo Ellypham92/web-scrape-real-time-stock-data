@@ -5,6 +5,7 @@
 </div>
 
 :pushpin: **Please do not use this book for trading. I am collecting data and analyzing the stock price for learning purposes only** <br>
+<br>
 :feet: Source: [IBM Course](https://www.coursera.org/professional-certificates/ibm-data-science) </br>
 :octocat: Scraping Code: [Jupyter book](https://github.com/Ellypham92/web-scrape-real-time-stock-data/blob/main/Scrape%20Stock%20Price-2.ipynb)
 
