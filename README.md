@@ -4,9 +4,7 @@
 <img width="200" alt="Screen Shot 2022-08-16 at 11 11 44 AM" src="https://user-images.githubusercontent.com/64395120/184951603-38483688-fe25-4682-9396-665a42931ac4.png">
 </div>
 
-**Please do not use this book for trading. I am collecting data and analyzing the stock price for learning purposes only.** <br>
-
-
+:pushpin: **Please do not use this book for trading. I am collecting data and analyzing the stock price for learning purposes only.** <br>
 :feet: Source: [IBM Course](https://www.coursera.org/professional-certificates/ibm-data-science) </br>
 :octocat: Code: [Jupyter book](https://github.com/Ellypham92/web-scrape-real-time-stock-data/blob/main/Scrape%20Stock%20Price-2.ipynb)
 ### Share Price: Apple Stock
