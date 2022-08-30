@@ -1,7 +1,7 @@
 ## Real Time Stock Data Scraping
 
 <div id="header" align="center">
-<img width="200" alt="Screen Shot 2022-08-16 at 11 11 44 AM" src="https://user-images.githubusercontent.com/64395120/184951603-38483688-fe25-4682-9396-665a42931ac4.png">
+<img width="200" alt="Screen Shot 2022-08-16 at 11 11 44 AM" src="![image](https://user-images.githubusercontent.com/64395120/187549408-70b4183a-33f4-4056-8a34-ef41ff8665cf.png)">
 </div>
 
 :pushpin: **Please do not use this book for trading. I am collecting data and analyzing the stock price for learning purposes only** <br>
